@@ -1,0 +1,47 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "html",
+      "body": "html is ....."
+    },
+    {
+      "id": "2",
+      "title": "css",
+      "body": "css is ....."
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "id": "jz6ZIf2Dp6M"
+    },
+    {
+      "title": "b",
+      "body": "b121",
+      "id": "cVE7KZxjXtc"
+    },
+    {
+      "title": "c123123",
+      "body": "c12312",
+      "id": "nBn64EBSdhE"
+    }
+  ],
+  "post": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
